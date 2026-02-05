@@ -26,7 +26,7 @@ This is a technical/academic project, not a full game.
   - Otherwise, they disperse to low-visibility map positions
 
 ## Tech
-- Unity XXXX
+- Unity 2022.3.5f1
 - C#
 - Pathfinding
 - Finite State Machine (FSM)
